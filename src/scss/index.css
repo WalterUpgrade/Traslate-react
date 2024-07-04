@@ -1,0 +1,29 @@
+/* scss/index.css */
+
+body{
+  background-color: lightblue;
+}
+.text p{
+  font-family: monospace;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+  font-family: nyt-cheltenham, cheltenham-fallback-georgia, cheltenham-fallback-noto, georgia, 'times new roman', times, serif;
+}
+
+.language-select {
+  background: #4f90e8;
+  color: aliceblue;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+
+}
+
+
+
+
